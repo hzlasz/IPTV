@@ -4,10 +4,9 @@
 
 - [直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")
 - [点播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源 "点播源")
-- [电视节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电视节目单epg接口 "电视节目单（EPG）接口")
+- [EPG](https://github.com/ngo5/IPTV?tab=readme-ov-file#epg)
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
   * [ERW](https://github.com/ngo5/IPTV?tab=readme-ov-file#ERW "ERW")
-  * [BurningC4](https://github.com/ngo5/IPTV?tab=readme-ov-file#BurningC4 "BurningC4")
 - [推荐软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件 "推荐软件")
   * [空壳软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#空壳软件 "空壳软件")
   * [自带源软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#自带源软件 "自带源软件")
@@ -22,25 +21,26 @@
 
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
-|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
-|[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
-|[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
-|[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|IPV6|✔️|✔️|
-|[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
-|[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u|IPV6|✔️|✔️|
-|[vbskycn](https://github.com/vbskycn/iptv)|https://live.izbds.com/tv/iptv6.m3u|IPV6|✔️|✔️|
-|[vbskycn](https://github.com/vbskycn/iptv)|https://live.izbds.com/tv/iptv4.m3u|IPV4|✔️|✔️|
 |[YanG-1989](https://yang-1989.eu.org/)|https://tv.iill.top/m3u/Gather|IPV4|✔️|✔️|
-|[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV4|✔️|❌||
+|[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv6.m3u|IPV6|✔️|✔️|
+|[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv4.m3u|IPV4|✔️|✔️|
+|[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|IPV6|✔️|✔️|
+|[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
+|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
+|[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u|IPV4|❌|✔️|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4|✔️|❌|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
-|[AKTV](https://aktv.top/)|http://aktv.space/live.m3u|IPV4|✔️|❌|
+|[zwc456baby](https://github.com/zwc456baby/iptv_alive)|https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u|IPV4|✔️|✔️|
+|[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
+|[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
+|[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u|IPV6|✔️|✔️|
+|[传说引导页](https://oooo.cc.ua/)|http://tttttt.tttttttttt.top/jk.txt|IPV4|❌|❌|
+|[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 |~~[joevess](https://github.com/joevess/IPTV)~~|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
-|[传说引导页](http://iptv.qoo.us.kg/ "传说引导页")|http://tot.totalh.net/tttt.txt|IPV4|❌|❌|
-|[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
-|[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV4|✔️|✔️|
+|~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
+|~~[AKTV](https://t.me/MYOKKTV)~~|https://aktv.space/live.m3u|IPV4|✔️|❌|
 
-ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。ipv6源基本可用，不能用检查有没有ipv6或者换个软件，ipv4源不能用试试换个软件。AKTV只有香港台湾电视台。20250115突然大部分IPV6直播源只能本省看，好多项目IPV6源也替换成IPV4源，现在看直播可试试“自带源软件”下几个软件。
+直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。20250115突然大部分IPV6直播源只能本省看，好多项目IPV6源也替换成IPV4源，现在看直播可试试“自带源软件”下几个软件。也可以先输入点播源，这样会自动填写点播源自带的直播源。
 
 ------------
 
@@ -51,7 +51,7 @@ ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使�
 - [Pixman](https://pixman.io/)（普通人别折腾）
 - ~~[stream link](https://www.stream-link.org/)（資源不支持中國大陸使用）~~
 
-IPV6是否开启查询：https://testipv6.cn/
+IPV6是否开启查询：https://testipv6.com
 
 直播源检测有效性：https://github.com/zhimin-dev/iptv-checker
 
@@ -61,26 +61,30 @@ IPV6是否开启查询：https://testipv6.cn/
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
+|OK猫开发|http://ok321.top/ok|源|
 |[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.net/tv|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
-|[OK猫开发](https://t.me/okdespace)|http://ok321.top/ok|源|
+|王小二|https://9280.kstore.space/wex.json|源|
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
 |[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
-|[肥猫](https://肥猫.com/)|http://ceshi.肥猫.com/PandaQ|源|
-|~~安卓哥~~|https://安卓哥.com|源|
+|[肥猫](https://肥猫.com/)|http://肥猫.com/|源|
 |盒子迷|https://盒子迷.top/禁止贩卖|源|
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
+|FongMi|https://fongmi.eu.org/|源导航|
+|[APP宫殿](https://linux.do/t/topic/1038417)|https://gongdian.top/tvbox/nanfeng/api.json|源|
+|Guovin|https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json|源|
+|~~安卓哥~~|https://安卓哥.com|源|
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
-饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝 [影视APP发布TG](https://t.me/fongmi_release)
+[OK猫开发(OK影视)TG](https://t.me/okdespace) [饭太硬TG](https://t.me/TVBoxxoo) [王小二TG](https://t.me/wangerxiaofangniuwa) [FM影视TG](https://t.me/fongmi_release) [肥羊TG](https://t.me/feiyangofficalchannel)
 
 ------------
 
-# 电视节目单（EPG）接口
+# EPG
 
 ## [112114](https://epg.112114.xyz/ "112114")
 
@@ -99,16 +103,6 @@ IPV6是否开启查询：https://testipv6.cn/
 
     https://e.erw.cc/e.xml
 
-## BurningC4
-
-### Github
-
-    https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
-    
-### jsDelivr CDN (optimized for mainland users) 
-
-    https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
-    
 
 ------------
 
@@ -120,10 +114,13 @@ IPV6是否开启查询：https://testipv6.cn/
 | ------------ | ------------ | ------------ |
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
-|影视(OK)|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
+|OK影视|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
+|OrionTV|https://github.com/zimplexing/OrionTV/releases|Android电视|
+|MoonTV|https://github.com/MoonTechLab/LunaTV|需自己构建|
 |TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|MacOS Windows Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
+|天光云影|https://github.com/mytv-android/mytv-android|Android电视|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |M3U IPTV|https://m3u-ip.tv/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
@@ -132,6 +129,7 @@ IPV6是否开启查询：https://testipv6.cn/
 |SteveWatch|https://apps.apple.com/us/app/stevewatch/id6478312533|美区iOS|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
+|IPTV Player|https://iptvplayer.stream|Web|
 |~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/Hunlongyu/ZY-Player|Windows/Mac/Linux|
 |~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/cuiocean/ZY-Player-APP|Android/iOS|
 
@@ -143,16 +141,20 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 
 ## 自带源软件
 
-电视直播 电视APP
+电视直播 安卓电视APP
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
-|我们的电视|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
-|电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网**官方**源|
-|WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区**官方**源|
+|油桃TV|https://www.utao.tv/|影视和直播|
+|电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|官方源|
+|WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|官方源|
 |小飞电视|https://y977.com/tv/|天光云影内置源|
-|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|空壳+源|
+|小微直播|http://www.xiaoweizhibo.net/mobile.html|第三方|
+|大吉电视|https://www.dajitv.com/dajitv-app/|免费受限|
+|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|内置源|
+|GD影视|https://www.gongdian.top/?p=4761|OK影视内置源|
 |影用仓库|https://wmdz.com/|电视APP合集|
+|~~OurTV~~|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
 |~~我的电视~~|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
@@ -163,18 +165,17 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
-|BrowseHere|https://tcl-img.b-cdn.net/BrowseHere/APK/release/ape_6.44.011_4f72312d_221221_gp_BrowseHere.apk|官方|
+|BrowseHere|[v6.44.011](https://tcl-img.b-cdn.net/BrowseHere/APK/release/ape_6.44.011_4f72312d_221221_gp_BrowseHere.apk)|官方|
 |TV Bro|https://github.com/truefedex/tv-bro/releases|开源|
 
 ------------
 
 
 # GitHub镜像
-- https://github.do/
 - https://ghfast.top/
 - https://gh-proxy.com/
 
-在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。举例：https://github.do/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。举例：https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 解决无法打开GitHub还有一种方法是更换DNS。DNS合集：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
